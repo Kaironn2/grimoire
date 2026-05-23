@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/02-types.md",
+                "file": "go/01-fmt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-types"
+              "title": "01-fmt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teo-me-why/go/notes/Sem título.md",
+                "file": "go/01-fmt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sem título"
+              "title": "Links inversos para 01-fmt"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,8 @@
   },
   "active": "5432564e345444d5",
   "lastOpenFiles": [
-    "go/01-fmt.md",
     "go/02-types.md",
+    "go/01-fmt.md",
     "teo-me-why/go/notes/Sem título.md",
     "go",
     "teo-me-why/go/Sem título.md",
